@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\bin\Debug\net7.0\StudentDataProject.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\bin\Debug\net7.0\StudentDataProject.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\bin\Debug\net7.0\StudentDataProject.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\bin\Debug\net7.0\StudentDataProject.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\bin\Debug\net7.0\StudentDataProject.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\StudentDataProject.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\StudentDataProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\StudentDataProject.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\StudentDataProject.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\StudentDataProject.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\StudentDataProject.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\refint\StudentDataProject.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\StudentDataProject.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\StudentDataProject.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day12\StudentDataProject\StudentDataProject\obj\Debug\net7.0\ref\StudentDataProject.dll
