@@ -1,0 +1,8 @@
+school Name : Rainbow Schools
+
+Class : Secondary High School
+
+ sl.No  Name      Rollno   Sub      Marks  Grade
+   1    sundar     422     Maths     85     A+
+   2    Sandeep    421     science   78     A
+   3    Tharun     420     English   76     A
